@@ -1,4 +1,5 @@
 # Welcome to UFC-Betting
+<img width="931" alt="Screenshot 2022-04-24 at 4 54 26 PM" src="https://user-images.githubusercontent.com/84327330/164968548-06ce1401-b238-4f95-b3d7-51b9e6a89341.png">
 
 ## About
 
