@@ -1,7 +1,5 @@
 # Welcome to UFC-Betting
 
-# Welcome to movie-analysis repository
-
 ## About
 
 This is a Mini-project for CS1015 (Introduction to Data Science and Artificial Intelligence) which focuses on predicting outcomes for UFC fights and proposing betting strategy to maximise profit. We have divided the UFC matchups in terms of the weightclasses and chose to focus on the top 3 most popular weightclass: Lightweight, Middleweight and Heavyweight:
