@@ -45,7 +45,7 @@ When it comes to betting, we are always influenced by our emotions. Some of us m
 - The decision tree of depth 5 has better classification accuracy compared to the decision tree of depth 3. However, the tree with depth 5 has problems with overfitting, resulting in the lost of all the capital.
 
 - Logistic Regression returns better predictions and probability than than Decision Tree in our project.
-- Kelly Criterion will generate a net profit if overfitting/underfitting does not occur.
+- Kelly Criterion will generate a net profit if overfitting/underfitting does not occur. In our lightweight betting strategy, we managed to achieve up to 280x of our capital at the end of the simulation.(Assuming starting capital is $100)
 
 ## What did we learn from this project?
 
